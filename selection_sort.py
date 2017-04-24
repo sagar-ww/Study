@@ -33,8 +33,7 @@ def insertion_sort(n):
 
 
 arr = [26,54,93,17,77,31,44,55,20]
-#bubble_sort(arr)
-#selection_sort(arr)
+
 insertion_sort(arr)
 print(arr)
 

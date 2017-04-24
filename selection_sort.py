@@ -29,14 +29,14 @@ def insertion_sort(n):
             n[current_position] = n[current_position-1]
             current_position = current_position -1
         n[current_position] = current_value
-        
 
 
 arr = [26,54,93,17,77,31,44,55,20]
 
 insertion_sort(arr)
 print(arr)
-
+# sqr function
+# added anither line for master
 
 def sqr(n):
     return n*n

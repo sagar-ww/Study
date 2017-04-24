@@ -29,7 +29,7 @@ base.test()
 
 
 
-print("********")
+
 child = DeriveClass('sagar','gosavi','python')
 print(child.check())
 print(child.derived_value)
